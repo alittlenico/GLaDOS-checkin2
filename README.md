@@ -1,4 +1,4 @@
-# GLaDOS-checkin 111222111
+# GLaDOS-checkin
 
 一点小羊毛。**好哥哥们顺手点个 star 吧。**
 
